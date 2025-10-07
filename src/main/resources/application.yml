@@ -1,6 +1,9 @@
 spring:
   application:
     name: sistema-votacao
+  sql:
+    init:
+      mode: never
 
   datasource:
     url: jdbc:h2:file:./data/bancovotacao
