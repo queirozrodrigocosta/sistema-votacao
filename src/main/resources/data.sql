@@ -1,4 +1,4 @@
 INSERT INTO pautas (titulo, descricao, data_criacao) VALUES
-('Aprovação do Orçamento 2024','Votação do orçamento anual da cooperativa.', CURRENT_TIMESTAMP()),
-('Reforma do Estatuto Social','Alterações propostas nos artigos do estatuto social.', CURRENT_TIMESTAMP()),
-('Eleição da Nova Diretoria','Processo de escolha dos novos membros da diretoria executiva.', CURRENT_TIMESTAMP());
+('teste1','teste1', CURRENT_TIMESTAMP()),
+('teste2','teste2', CURRENT_TIMESTAMP()),
+('teste3','teste3', CURRENT_TIMESTAMP());
